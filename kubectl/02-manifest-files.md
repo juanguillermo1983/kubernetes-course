@@ -14,7 +14,7 @@ En resumen, YAML es un formato de serialización de datos que se destaca por su 
 
 ### Ejemplo
 
-![02-manifest-files](image/02-manifest-files/1717178566238.png)
+![ejemplo-yaml](image/02-manifest-files/ejemplo-yaml.png)
 
 ## Manifest
 
