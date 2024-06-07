@@ -78,7 +78,7 @@ spec:
  kubectl create -f nginx.yaml
 ```
 
-- si es necesario borrar un pod anteriorr
+### borrar un pod
 ```
 kubectl delete pod/nginx1
 ```
